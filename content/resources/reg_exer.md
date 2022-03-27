@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Document
 title: reg_exer.pdf
 uid: 00ebc036-de6c-31ae-89f9-8ade935252e4

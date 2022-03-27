@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Document
 title: hrzmainfrq101603.pdf
 uid: 45567ff6-8a21-1cf2-304a-7b076ce2feb5

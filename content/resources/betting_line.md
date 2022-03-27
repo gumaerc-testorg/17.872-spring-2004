@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Other
 title: betting_line.dta
 uid: 7aee67fc-6da7-c1b2-b443-615fd6e5f688

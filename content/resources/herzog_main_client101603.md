@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Other
 title: Herzog_Main_Client101603.xls
 uid: 784c0ade-d1c6-b94e-46e8-8c98ecf4d223

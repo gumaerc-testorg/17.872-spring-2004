@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: LaTeX file.
-file: /media/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/84b35c7bcf4ca44a9fa29342b2a12365_PS1.TEX
+description: LaTeX File
+file: /media/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/98f0e7a5502e9e3e6f40cc7d87fd7f03_PS8.TEX
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -10,6 +10,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Other
-title: PS1.TEX
-uid: 84b35c7b-cf4c-a44a-9fa2-9342b2a12365
+title: PS8.TEX
+uid: 98f0e7a5-502e-9e3e-6f40-cc7d87fd7f03
 ---

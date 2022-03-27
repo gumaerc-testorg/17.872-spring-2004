@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Other
 title: PS6.XLS
 uid: 9f5504dc-8536-3ceb-a375-50546dc21b8c

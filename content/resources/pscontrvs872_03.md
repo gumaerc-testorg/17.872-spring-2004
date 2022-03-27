@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Document
 title: pscontrvs872_03.pdf
 uid: dfa5e681-d420-b09c-2c3b-7f3286cccc81

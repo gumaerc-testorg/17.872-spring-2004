@@ -25,18 +25,18 @@ ASSOCIATED FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ps1_sol))  
-Stata® File ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS1.TEX))
+Stata® File ([TEX]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-CPS78 Stata® File ([TXT](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/CPS78.TXT))  
+CPS78 Stata® File ([TXT]({{< baseurl >}}/resources/cps78))  
 CPS85 Stata® File 1 ([DTA]({{< baseurl >}}/resources/cps85))  
-CPS85 Stata® 2 ([TXT](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/CPS85.TXT))  
+CPS85 Stata® 2 ([TXT]({{< baseurl >}}/resources/cps85-1))  
 Recitation Note 1 ([PDF]({{< baseurl >}}/resources/rec1))  
-Recitation Note 2 ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/REC1.TEX))
+Recitation Note 2 ([TEX]({{< baseurl >}}/resources/rec1-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +46,7 @@ Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ps2sol_03))  
-Stata® File ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/ps2sol_03.tex))
+Stata® File ([TEX]({{< baseurl >}}/resources/ps2sol_03-1))
 {{< tdclose >}}
 {{< tdopen >}}
 Stata® File 1 (Betting Line) ([DTA]({{< baseurl >}}/resources/betting_line))  
@@ -61,10 +61,10 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3_872_2003))
 {{< tdclose >}}
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ps3))  
-Stata® File ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS3_SOL.TEX))
+Stata® File ([TEX]({{< baseurl >}}/resources/ps3_sol))
 {{< tdclose >}}
 {{< tdopen >}}
-Stata® File ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS3.DO))
+Stata® File ([DO]({{< baseurl >}}/resources/ps3-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,8 +73,8 @@ Stata® File ([DO](/courses/political-science/17-872-quantitative-research-in-po
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-Solution ([PDF]({{< baseurl >}}/resources/ps4))  
-Stata® File ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS4.TEX))
+Solution ([PDF]({{< baseurl >}}/resources/ps4-1))  
+Stata® File ([TEX]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -101,7 +101,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps1782exlolncl2))
 {{< tdclose >}}
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ps6sol))  
-Stata® File ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS6.TEX))
+Stata® File ([TEX]({{< baseurl >}}/resources/ps6-2))
 {{< tdclose >}}
 {{< tdopen >}}
 Stata® File 1 ([GPH]({{< baseurl >}}/resources/ps6_1))  
@@ -119,9 +119,9 @@ Problem Set 7
 Solution ([PDF]({{< baseurl >}}/resources/ps7_sol))
 {{< tdclose >}}
 {{< tdopen >}}
-Stata® File 1 ([TXT](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS7.TXT))  
-Stata® File 2 ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS7.DO))  
-Stata® File 3 ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS7_2.DO))
+Stata® File 1 ([TXT]({{< baseurl >}}/resources/ps7))  
+Stata® File 2 ([DO]({{< baseurl >}}/resources/ps7-1))  
+Stata® File 3 ([DO]({{< baseurl >}}/resources/ps7_2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,11 +131,11 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps_conf_int))
 {{< tdclose >}}
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ps8_sol))  
-Stata® File ([TEX](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS8.TEX))
+Stata® File ([TEX]({{< baseurl >}}/resources/ps8))
 {{< tdclose >}}
 {{< tdopen >}}
 Spreadsheet ([XLS]({{< baseurl >}}/resources/ps8_1))  
-State® File 1 ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS8C.DO))
+State® File 1 ([DO]({{< baseurl >}}/resources/ps8c))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,9 +147,9 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/reg_exer))
  
 {{< tdclose >}}
 {{< tdopen >}}
-Stata® File 1 ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS9.DO))  
-Stata® File 2 ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS9_1.DO))  
-Stata® File 3 ([DO](/courses/political-science/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/assignments/PS9_2.DO))
+Stata® File 1 ([DO]({{< baseurl >}}/resources/ps9))  
+Stata® File 2 ([DO]({{< baseurl >}}/resources/ps9_1))  
+Stata® File 3 ([DO]({{< baseurl >}}/resources/ps9_2))
 {{< tdclose >}}
 
 {{< trclose >}}
