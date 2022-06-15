@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes
-file: /media/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/a082990807fbe9ea71a7abdbd02e81a3_intro_sts_p22003.pdf
+file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/a082990807fbe9ea71a7abdbd02e81a3_intro_sts_p22003.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: 003474d2-860a-0f0e-2f6a-7676f5233227
 resourcetype: Document
 title: intro_sts_p22003.pdf
 uid: a0829908-07fb-e9ea-71a7-abdbd02e81a3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+Notes
+

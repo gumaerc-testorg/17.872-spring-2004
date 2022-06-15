@@ -1,15 +1,19 @@
 ---
 content_type: resource
-description: LaTeX file.
-file: /media/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/84b35c7bcf4ca44a9fa29342b2a12365_PS1.TEX
-file_type: text/plain
+description: ''
+file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/c51a26521fcf457e120cdea44e623969_ps1.pdf
+file_type: application/pdf
 learning_resource_types:
 - Assignments
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
-resourcetype: Other
-title: PS1.TEX
-uid: 84b35c7b-cf4c-a44a-9fa2-9342b2a12365
+resourcetype: Document
+title: ps1.pdf
+uid: c51a2652-1fcf-457e-120c-dea44e623969
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
