@@ -1,296 +1,175 @@
 ---
 content_type: page
+description: ''
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 086ef458-4a3e-b662-3272-6c76d91685d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+## Required Texts
 
-Required Texts
---------------
+Snedecor, George W., and William G. Cochran. *Statistical Methods*. Ames, IA: Iowa State University Press, 1989. ISBN: 9780813815619.
 
-Snedecor, George W., and William G. Cochran. _Statistical Methods_. Ames, IA: Iowa State University Press, 1989. ISBN: 9780813815619.
+Bulmer, M. G. *Principles of Statistics*. New York, NY: Dover Publications, 1979. ISBN: 9780486637600.
 
-Bulmer, M. G. _Principles of Statistics_. New York, NY: Dover Publications, 1979. ISBN: 9780486637600.
+Chiang, Alpha C. *Fundamental Methods of Mathematical Economics*. New York, NY: McGraw-Hill, 1984. ISBN: 9780070108134.
 
-Chiang, Alpha C. _Fundamental Methods of Mathematical Economics_. New York, NY: McGraw-Hill, 1984. ISBN: 9780070108134.
+## Recommended Texts
 
-Recommended Texts
------------------
+Goldberg, Samuel. *Probability: An Introduction*. New York, NY: Dover Publications, 1987. ISBN: 9780486652528. (Discrete Probability)
 
-Goldberg, Samuel. _Probability: An Introduction_. New York, NY: Dover Publications, 1987. ISBN: 9780486652528. (Discrete Probability)
-
-Rice, John A. _Mathematical Statistics and Data Analysis_. Belmont, CA: Duxbury Press, 1994. ISBN: 9780534209346.  
+Rice, John A. *Mathematical Statistics and Data Analysis*. Belmont, CA: Duxbury Press, 1994. ISBN: 9780534209346.     
 (Mathematical Statistics Course)
 
-Examples of Mathematical Tools
-------------------------------
+## Examples of Mathematical Tools
 
 ### The Cube Law
 
-Edward R. Tufte. "The Relationship between Seats and Votes in Two-party Systems." _The American Political Science Review_ 67, no. 2 (June, 1973): 540-554.
+Edward R. Tufte. "The Relationship between Seats and Votes in Two-party Systems." *The American Political Science Review* 67, no. 2 (June, 1973): 540-554.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part 1: Introduction: Research Methods and Challenges**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Part 2: Mathematical Tools  
-  
-**This section of the course reviews basic mathematical tools. You will also perform simple regression analyses using STATA® and we will use the functions that you estimate in the mathematics review.
-{{< tdclose >}}
+**Part 2: Mathematical Tools**
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+This section of the course reviews basic mathematical tools. You will also perform simple regression analyses using STATA® and we will use the functions that you estimate in the mathematics review.
+
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Functions and Limits
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chiang. Chaps. 2 and 6
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Derivatives
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chiang. Chap. 7
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Maximization
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chiang. Chap. 9
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Sums and Integrals
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chiang. Chap. 13
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Part 3: Probability and Models of Data  
-  
-**This section of the course develops the mathematical concepts used in statistics. Three ideas are essential: Random Variable, Density Functions, and Expectations.
-{{< tdclose >}}
+**Part 3: Probability and Models of Data**
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+This section of the course develops the mathematical concepts used in statistics. Three ideas are essential: Random Variable, Density Functions, and Expectations.
+
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Random Variables, Populations and Samples
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Snedecor and Cochran. Chap. 1
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Probability: Two Laws of Probability, Bayes Theorem
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-Probability Functions: Binomial, Bernoulli, Poisson   
+{{< tdclose >}}{{< tdopen >}}
+Probability Functions: Binomial, Bernoulli, Poisson      
 Uniform, Normal
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Expected Value: Mean, Variance, Covariance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Sums of Random Variables and Limit Theorems, Law of Large Numbers, Central Limit Theorem
-{{< tdclose >}}
-{{< tdopen >}}
-_Additional Reading_  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+*Additional Reading*
+
 Kendall and Stuart
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Part 4: Statistical Methods  
-  
-**In this section of the course, we develop the three ideas of statistics using probability theory. These ideas are (1) data can be summarized with a probability function, (2) we can optimize that function to estimate unknown parameters of the population, and (3) our estimates are uncertain measures of the population parameters, but we can summarize that uncertainty succinctly.
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+**Part 4: Statistical Methods**
+
+In this section of the course, we develop the three ideas of statistics using probability theory. These ideas are (1) data can be summarized with a probability function, (2) we can optimize that function to estimate unknown parameters of the population, and (3) our estimates are uncertain measures of the population parameters, but we can summarize that uncertainty succinctly.
+
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Data Model: Summary and Assumptions
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Estimation: MLE and MOM
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Inference: Confidence Interval and MSE
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
-**Part 5: Statistical Models  
-  
-**Conditional Distributions and Causality In this section, we apply the mathematical and statistical ideas develop to specific problems. The main idea in this section is that social scientific reasoning involves conditional statements of the form if X then Y. We focus on the tools for studying such relationships.
-{{< tdclose >}}
+**Part 5: Statistical Models**
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+Conditional Distributions and Causality In this section, we apply the mathematical and statistical ideas develop to specific problems. The main idea in this section is that social scientific reasoning involves conditional statements of the form if X then Y. We focus on the tools for studying such relationships.
+
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Differences of Means
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Analysis of Frequencies and Variance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Regression
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Regression (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
