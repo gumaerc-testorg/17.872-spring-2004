@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/9f5504dc85363ceba37550546dc21b8c_PS6.XLS
-file_type: application/msword
+description: Program to be executed given as text.
+file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/9adfd1c7e4d2e098cb5b93bd07c3e0d1_PS8C.DO
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,10 +11,11 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Other
-title: PS6.XLS
-uid: 9f5504dc-8536-3ceb-a375-50546dc21b8c
+title: PS8C.DO
+uid: 9adfd1c7-e4d2-e098-cb5b-93bd07c3e0d1
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
+Program to be executed given as text.

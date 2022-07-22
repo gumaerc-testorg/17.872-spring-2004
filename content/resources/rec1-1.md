@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: ''
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/9f5504dc85363ceba37550546dc21b8c_PS6.XLS
-file_type: application/msword
+description: LaTeX File
+file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/e52e552bc8225cf1a7c8e96376fb7335_REC1.TEX
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -11,10 +11,11 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 3b402a40-befa-7984-53dc-16fe492768dc
 resourcetype: Other
-title: PS6.XLS
-uid: 9f5504dc-8536-3ceb-a375-50546dc21b8c
+title: REC1.TEX
+uid: e52e552b-c822-5cf1-a7c8-e96376fb7335
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
+LaTeX File
