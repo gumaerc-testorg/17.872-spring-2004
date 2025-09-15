@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/ac40c9ed327f8f49f16591307bc444c4_stata_help.pdf
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/ac40c9ed327f8f49f16591307bc444c4_stata_help.pdf
+file_size: 45171
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

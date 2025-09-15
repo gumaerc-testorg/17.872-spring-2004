@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Notes
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/a082990807fbe9ea71a7abdbd02e81a3_intro_sts_p22003.pdf
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/a082990807fbe9ea71a7abdbd02e81a3_intro_sts_p22003.pdf
+file_size: 252652
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

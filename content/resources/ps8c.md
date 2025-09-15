@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Program to be executed given as text.
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/9adfd1c7e4d2e098cb5b93bd07c3e0d1_PS8C.DO
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/9adfd1c7e4d2e098cb5b93bd07c3e0d1_PS8C.DO
+file_size: 899
 file_type: text/plain
 learning_resource_types:
 - Assignments

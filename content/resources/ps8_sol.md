@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Incorrectly titled "Problem Set 7 Solution"
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/f1cb67178ee93639a3d65af3647fa880_ps8_sol.pdf
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/f1cb67178ee93639a3d65af3647fa880_ps8_sol.pdf
+file_size: 112360
 file_type: application/pdf
 learning_resource_types:
 - Assignments

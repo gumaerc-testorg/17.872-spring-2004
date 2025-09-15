@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Stata? File 1
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/4d3ae593b92359165d1c2206a223639c_CPS85.DTA
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/4d3ae593b92359165d1c2206a223639c_CPS85.DTA
+file_size: 52970
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments

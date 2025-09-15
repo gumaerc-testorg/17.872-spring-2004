@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/00ebc036de6c31ae89f98ade935252e4_reg_exer.pdf
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/00ebc036de6c31ae89f98ade935252e4_reg_exer.pdf
+file_size: 9671
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: LaTeX File
-file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/e52e552bc8225cf1a7c8e96376fb7335_REC1.TEX
+file: /ol-ocw-studio-app/courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/e52e552bc8225cf1a7c8e96376fb7335_REC1.TEX
+file_size: 3255
 file_type: text/plain
 learning_resource_types:
 - Assignments
